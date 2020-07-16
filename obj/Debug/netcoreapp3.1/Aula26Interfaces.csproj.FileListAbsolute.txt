@@ -1,0 +1,13 @@
+C:\Users\klebe\Desktop\gustavo\Aula26Interfaces\bin\Debug\netcoreapp3.1\Aula26Interfaces.exe
+C:\Users\klebe\Desktop\gustavo\Aula26Interfaces\bin\Debug\netcoreapp3.1\Aula26Interfaces.deps.json
+C:\Users\klebe\Desktop\gustavo\Aula26Interfaces\bin\Debug\netcoreapp3.1\Aula26Interfaces.runtimeconfig.json
+C:\Users\klebe\Desktop\gustavo\Aula26Interfaces\bin\Debug\netcoreapp3.1\Aula26Interfaces.runtimeconfig.dev.json
+C:\Users\klebe\Desktop\gustavo\Aula26Interfaces\bin\Debug\netcoreapp3.1\Aula26Interfaces.dll
+C:\Users\klebe\Desktop\gustavo\Aula26Interfaces\bin\Debug\netcoreapp3.1\Aula26Interfaces.pdb
+C:\Users\klebe\Desktop\gustavo\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.csprojAssemblyReference.cache
+C:\Users\klebe\Desktop\gustavo\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.AssemblyInfoInputs.cache
+C:\Users\klebe\Desktop\gustavo\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.AssemblyInfo.cs
+C:\Users\klebe\Desktop\gustavo\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\klebe\Desktop\gustavo\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.dll
+C:\Users\klebe\Desktop\gustavo\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.pdb
+C:\Users\klebe\Desktop\gustavo\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.genruntimeconfig.cache
